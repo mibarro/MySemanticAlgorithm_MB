@@ -1,0 +1,11 @@
+Package: Mariana_Barroso
+Title: Simple Semantic Algorithm
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Mariana", family = "Barroso", "mariana.barroso@ki.se", role = c("aut", "cre"))
+Description: This package offers a simple semantic approach to identify and count positive and negative words in a text document. 
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
